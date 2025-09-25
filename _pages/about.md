@@ -17,8 +17,13 @@ social: true  # includes social icons at the bottom of the page
 <p style="font-size: 5.8em; font-weight: bold; color: #333;">
  何逸铭
 </p>
-我是何逸铭，目前就读于南京大学新闻传播学院新闻与传播专业（2025~2028），师从尚可可。我的研究兴趣主要为计算传播、数据新闻。
-Cheng-Jun Wang is currently a full  professor in the [School of Journalism and Communication, Nanjing University](http://jc.nju.edu.cn). He is the director of [Computational Communication Collaboratory](https://computational-communication.com/) and the [Socrates Lab](https://chengjun.github.io/socrateslab/). He is also a research member of [Web Mining Lab](http://weblab.com.cityu.edu.hk), City University of Hong Kong. His research interest focuses on employing big data, computational methods, and social theories to study human communication behaviors, including but not limited to information diffusion, attention flow, and computational narrative. His research on computational communication appears in both SSCI and SCI indexed journals. His new book **Jumping over the network threshold: Information diffusion on social media** (in Chinese [《跨越网络的门槛：社交媒体上的信息扩散》](https://book.douban.com/subject/36017047/)) has recently been published by the Science Press in July 2022. You can find his [CV](cv/) here.
+我是何逸铭，目前就读于南京大学新闻传播学院新闻与传播专业（2025~2028），师从尚可可，目前在计算传播实验室工作。我的研究兴趣主要为计算传播、数据新闻。
+
+在方法论方面，我擅长通过大规模数字足迹数据挖掘、分析新闻生产以及其他人类行为。我精通 Python，并精通 R 语言，尤其擅长统计建模、自然语言处理和因果推断等应用。
+
+作为一名计算传播学研究人员，我致力于突破计算方法的界限，开发新的框架来分析人类交际中的复杂元素（例如身份、语境、叙事和修辞），并追踪这些元素如何揭示人们心理和行为的演变动态。
+
+我的作品发表在《广播与电子媒体杂志》、《国际商务传播杂志》、《中国传播学杂志》和《传播与公众》等顶级期刊上。我的研究得到了四项内部和外部资助，并获得了美国国家传播协会颁发的两项学术荣誉：政治传播分部最佳论文奖和人类传播与技术分部最佳学生论文奖。
 
 <img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
 
