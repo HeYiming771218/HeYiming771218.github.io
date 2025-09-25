@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: 逸铭
+first_name: 
 middle_name: 
-last_name: 何
+last_name: 
 email: hymxwyb@163.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Know Thyself.
