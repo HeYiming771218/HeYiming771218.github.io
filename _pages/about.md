@@ -47,7 +47,7 @@ social: false  # includes social icons at the bottom of the page
 <style>
 .about-purple-box {
   display: inline-block;          
-  border: 2px solid;
+  border: 1px solid;
   border-image: linear-gradient(135deg, #9b59b6 0%, #6a3093 100%) 1;
   border-radius: 12px;
   box-shadow: 0 8px 24px rgba(154, 89, 182, 0.25);
