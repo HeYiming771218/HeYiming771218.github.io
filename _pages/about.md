@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 
 - 我的作品发表在《新闻与传播研究》、《国际新闻界》、《现代传播》、《新闻大学》以及《New Media & Society》等顶级期刊上。我的研究得到了四项内部和外部资助，并获得了美国国家传播协会（NCA）颁发的两项学术荣誉：政治传播分部最佳论文奖和人类传播与技术分部最佳学生论文奖。
 
-<img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
+<img src="/assets/img/my-photo2.jpg" align="middle" width="800px">
 
 
 <br>
