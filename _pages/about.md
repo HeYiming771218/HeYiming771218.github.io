@@ -23,7 +23,6 @@ social: false  # includes social icons at the bottom of the page
 - 在方法论方面，我擅长通过大规模数字足迹数据挖掘、分析新闻生产以及其他人类行为。我精通 Python，并精通 R 语言，尤其擅长统计建模、自然语言处理和因果推断等应用。
 </div>
 <br>
-<br>
 <div class="about-purple-box">
 - 作为一名计算传播学研究人员，我致力于突破计算方法的界限，开发新的框架来分析新闻生产中的复杂元素（例如身份、语境、叙事和修辞），并追踪这些元素如何揭示新闻受众心理和行为的演变动态。
 </div>
