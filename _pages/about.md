@@ -14,6 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+<div class="about-purple-box">
 <p style="font-size: 4.8em; font-weight: bold; color: #333;">
  何逸铭
 </p>
@@ -35,3 +36,16 @@ social: false  # includes social icons at the bottom of the page
 </a>
 
 <br>
+</div>
+
+<style>
+.about-purple-box {
+  display: inline-block;          
+  border: 8px solid;
+  border-image: linear-gradient(135deg, #9b59b6 0%, #6a3093 100%) 1;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(154, 89, 182, 0.25);
+  padding: 1.5rem;                
+  margin: 0 auto;                
+}
+</style>
