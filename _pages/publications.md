@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-🥹Sorry, I haven’t published any papers yet, but you will see my name in top communication journals in the future!
+🥹Sorry, I haven’t published any papers yet, but you will see my name in top communication journals in the future!💪💪💪
 
 
 <br>
