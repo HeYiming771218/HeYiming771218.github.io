@@ -17,7 +17,7 @@ This semester, I am taking the following courses as electives:
 - Undergraduate Course [Badminton](https://lms.nju.edu.cn/course/1166/content#/) (2025-2026, first semester)
 
 
-![image](https://user-images.githubusercontent.com/543384/147380016-da65a625-6480-47f4-8e27-5034d696f553.png)
+
 
 <br>
 <a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/teaching.md">
