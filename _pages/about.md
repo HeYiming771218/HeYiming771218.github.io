@@ -14,9 +14,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<div class="about-purple-box">
 <p style="font-size: 4.8em; font-weight: bold; color: #333;">
  何逸铭
+<div class="about-purple-box">
 </p>
 我是南京大学新闻传播学院新闻与传播专业（2025~2028）的一年级硕士生，师从尚可可，目前在计算传播中心实验室工作。我的研究兴趣主要为<strong>计算传播、数据新闻</strong>。
 
@@ -25,6 +25,7 @@ social: false  # includes social icons at the bottom of the page
 - 作为一名计算传播学研究人员，我致力于突破计算方法的界限，开发新的框架来分析新闻生产中的复杂元素（例如身份、语境、叙事和修辞），并追踪这些元素如何揭示新闻受众心理和行为的演变动态。
 
 - 我的作品发表在《新闻与传播研究》、《国际新闻界》、《现代传播》、《新闻大学》以及《New Media & Society》等顶级期刊上。我的研究得到了四项内部和外部资助，并获得了美国国家传播协会（NCA）颁发的两项学术荣誉：政治传播分部最佳论文奖和人类传播与技术分部最佳学生论文奖。
+</div>
 
 <img src="/assets/img/my-photo2.jpg" align="middle" width="800px">
 
@@ -36,7 +37,6 @@ social: false  # includes social icons at the bottom of the page
 </a>
 
 <br>
-</div>
 
 <style>
 .about-purple-box {
