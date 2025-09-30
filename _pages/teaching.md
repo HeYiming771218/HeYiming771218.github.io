@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Kindle the fire in your heart. 
+description: I do everything I want to do. 
 nav: true
 nav_order: 5
 ---
