@@ -16,7 +16,6 @@ social: false  # includes social icons at the bottom of the page
 
 <p style="font-size: 4.8em; font-weight: bold; color: #333;">
  何逸铭
-
 </p>
 哈哈
 <div class="about-purple-box">
