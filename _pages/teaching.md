@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+<img src="/assets/img/courses.jpg" align="middle" width="800px">
+
 ## Courses
 
 This semester, I am taking the following courses as electives:
