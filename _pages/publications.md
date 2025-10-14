@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 🥹Sorry, I haven’t published any papers yet, but you will see my name in top communication journals in the future!💪💪💪
-
+But you can find out that I have published some news articles during my previous media internship, mainly focusing on **news commentary** and **data journalism**!
 
 ---
 
@@ -16,8 +16,6 @@ nav_order: 1
 
 
 ## News Articles
-
-In addition to publishing some academic articles, I also published some news articles during my media internship, mainly focusing on **news commentary** and **data journalism**!
 
 - News Commentary [《免遭拆除的金庸图书馆，藏着城市治理的“绣花功”》](https://mp.weixin.qq.com/s/DE6rjVOASSY1OkeCrB2rPw) (2023-05)
 - News Commentary [《AI代写廉价论文，点歪了“人机共舞”的科技树》](https://moment.rednet.cn/content/646849/66/13928144.html) (2024-05)
