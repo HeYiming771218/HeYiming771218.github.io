@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 🥹Sorry, I haven’t published any papers yet, but you will see my name in top communication journals in the future!💪💪💪
-But you can find out that I have published some news articles during my previous media internship, mainly focusing on **news commentary** and **data journalism**!
+But you can check out some of the news articles I published during my previous media internship, mainly focusing on **news commentary** and **data journalism**!
 
 ---
 
