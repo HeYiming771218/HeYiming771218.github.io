@@ -12,6 +12,9 @@ nav_order: 1
 
 ---
 
+<img src="/assets/img/prize.jpg" align="middle" width="800px">
+
+
 ## News Articles
 
 In addition to publishing some academic articles, I also published some news articles during my media internship, mainly focusing on **news commentary** and **data journalism**!
