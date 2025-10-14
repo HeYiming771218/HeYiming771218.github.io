@@ -14,7 +14,7 @@ nav_order: 1
 
 ## News Articles
 
-In addition to publishing some academic articles, I also published some news articles during my media internship, mainly focusing on news commentary and data journalism!
+In addition to publishing some academic articles, I also published some news articles during my media internship, mainly focusing on **news commentary** and **data journalism**!
 
 <br>
 <a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/publications.md">
