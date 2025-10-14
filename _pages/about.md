@@ -33,7 +33,7 @@ social: false  # includes social icons at the bottom of the page
 <br>
 
 
-<img src="/assets/img/my-photo2.jpg" align="middle" width="800px">
+<img src="/assets/img/my-photo3.jpg" align="middle" width="800px">
 
 
 <br>
