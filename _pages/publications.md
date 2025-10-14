@@ -10,6 +10,12 @@ nav_order: 1
 🥹Sorry, I haven’t published any papers yet, but you will see my name in top communication journals in the future!💪💪💪
 
 
+---
+
+## News Articles
+
+In addition to publishing some academic articles, I also published some news articles during my media internship, mainly focusing on news commentary and data journalism!
+
 <br>
 <a href="https://github.com/SocratesClub/SocratesClub.github.io/edit/master/_pages/publications.md">
   <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
