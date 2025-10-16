@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
   .about-wrap{ position:relative; }          /* 让花纹相对整段正文定位 */
   .decor-left,
   .decor-right{
-    position:absolute;
+    position:fixed;
     top:50%;                                  /* 垂直居中 */
     transform:translateY(-50%);
     width:260px;                              /* 想再大/再小自己调 */
