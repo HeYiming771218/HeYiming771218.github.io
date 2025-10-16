@@ -14,6 +14,34 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+<style>
+/* 仅桌面端显示 */
+@media (min-width: 768px){
+  .about-wrap{ position:relative; }          /* 让花纹相对整段正文定位 */
+  .decor-left,
+  .decor-right{
+    position:absolute;
+    top:50%;                                  /* 垂直居中 */
+    transform:translateY(-50%);
+    width:260px;                              /* 想再大/再小自己调 */
+    opacity:0.15;                             /* 淡一点，当背景 */
+    z-index:0;
+    pointer-events:none;                      /* 不影响鼠标选中文本 */
+  }
+  .decor-left { left:-280px; }                /* 负值→伸到正文区域外 */
+  .decor-right{ right:-280px; }
+}
+/* 手机端直接隐藏 */
+@media (max-width: 767px){
+  .decor-left,.decor-right{ display:none; }
+}
+</style>
+
+<!-- 花纹本身 -->
+<div class="about-wrap">
+  <img src="/assets/img/left.png"  class="decor-left"  alt="">
+  <img src="/assets/img/right.png" class="decor-right" alt="">
+
 <p style="font-size: 4.8em; font-weight: bold; color: #333;">
  何逸铭
 </p>
@@ -55,3 +83,4 @@ social: false  # includes social icons at the bottom of the page
   margin: 0 auto;                
 }
 </style>
+</div>
