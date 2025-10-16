@@ -28,8 +28,8 @@ social: false  # includes social icons at the bottom of the page
     z-index:0;
     pointer-events:none;                      /* 不影响鼠标选中文本 */
   }
-  .decor-left { left:-280px; }                /* 负值→伸到正文区域外 */
-  .decor-right{ right:-280px; }
+  .decor-left { left:-680px; }                /* 负值→伸到正文区域外 */
+  .decor-right{ right:-680px; }
 }
 /* 手机端直接隐藏 */
 @media (max-width: 767px){
