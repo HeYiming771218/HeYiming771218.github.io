@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+During my undergraduate years,I served as a teaching assistant and taught the following courses:
+
+- Undergraduate Course **Basic Training for News Commentary Skills** (2022-2023)
+- Undergraduate Course **Data Journalism** (2023-2025)
+
+
 <img src="/assets/img/courses.jpg" align="middle" width="800px">
 
 *As you can see, I'm fully confident of getting a perfect score in all courses.*
