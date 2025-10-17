@@ -14,6 +14,7 @@ But you can check out some of the news articles I published during my previous m
 
 <img src="/assets/img/prize.jpg" align="middle" width="800px">
 
+*Hopefully, I could represent China to win these two awards soon.*
 
 ## News Articles
 
