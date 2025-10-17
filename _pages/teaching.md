@@ -9,6 +9,8 @@ nav_order: 5
 
 <img src="/assets/img/courses.jpg" align="middle" width="800px">
 
+*As you can see, I'm fully confident of getting a perfect score in all courses.*
+
 ## Courses
 
 This semester, I am taking the following courses as electives:
