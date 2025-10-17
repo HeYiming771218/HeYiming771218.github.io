@@ -54,5 +54,3 @@ This semester, I am taking the following courses as electives:
   <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
 </a>
 <br>
-<div>
-
